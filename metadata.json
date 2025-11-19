@@ -1,0 +1,5 @@
+{
+  "name": "Retro Space Invaders",
+  "description": "A classic infinite-level Space Invaders clone with retro aesthetics, progressive difficulty, and high-score tracking.",
+  "requestFramePermissions": []
+}
